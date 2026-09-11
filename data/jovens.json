@@ -1,0 +1,70 @@
+[
+  {
+    "nome": "Ana Silva",
+    "email": "ana.silva@email.com",
+    "idade": 22,
+    "habilidades": ["Python", "SQL", "Git"],
+    "formacao": {
+      "curso": "Engenharia de Software",
+      "instituicao": "UniCesumar",
+      "ano_conclusao": 2026
+    },
+    "experiencia": [
+      {
+        "cargo": "Estagiária de TI",
+        "empresa": "TechLocal",
+        "periodo": "2024-2025"
+      }
+    ],
+    "cidade": "Maringá",
+    "estado": "PR"
+  },
+  {
+    "nome": "Bruno Costa",
+    "email": "bruno.costa@email.com",
+    "idade": 19,
+    "habilidades": ["JavaScript", "React", "Node.js"],
+    "formacao": {
+      "curso": "Análise e Desenvolvimento de Sistemas",
+      "instituicao": "UniCesumar",
+      "ano_conclusao": 2025
+    },
+    "experiencia": [],
+    "cidade": "Curitiba",
+    "estado": "PR"
+  },
+  {
+    "nome": "Carla Mendes",
+    "email": "carla.mendes@email.com",
+    "idade": 25,
+    "habilidades": ["Java", "Spring Boot", "MongoDB"],
+    "formacao": {
+      "curso": "Ciência da Computação",
+      "instituicao": "UEM",
+      "ano_conclusao": 2024
+    },
+    "experiencia": [
+      {
+        "cargo": "Desenvolvedora Júnior",
+        "empresa": "SoftHouse",
+        "periodo": "2024-atual"
+      }
+    ],
+    "cidade": "Maringá",
+    "estado": "PR"
+  },
+  {
+    "nome": "Diego Oliveira",
+    "email": "diego.oliveira@email.com",
+    "idade": 21,
+    "habilidades": ["Python", "Machine Learning", "Pandas"],
+    "formacao": {
+      "curso": "Engenharia de Software",
+      "instituicao": "UniCesumar",
+      "ano_conclusao": 2026
+    },
+    "experiencia": [],
+    "cidade": "Londrina",
+    "estado": "PR"
+  }
+]

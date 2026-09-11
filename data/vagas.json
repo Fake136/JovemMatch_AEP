@@ -1,0 +1,54 @@
+[
+  {
+    "titulo": "Desenvolvedor Python Júnior",
+    "empresa": "TechInova",
+    "descricao": "Vaga para desenvolver APIs e automações com Python.",
+    "habilidades_requeridas": ["Python", "SQL", "Git"],
+    "salario": 3500.00,
+    "tipo_contrato": "CLT",
+    "localizacao": {
+      "cidade": "Maringá",
+      "estado": "PR"
+    },
+    "ativa": true
+  },
+  {
+    "titulo": "Frontend React Developer",
+    "empresa": "WebSolutions",
+    "descricao": "Criação de interfaces modernas com React.",
+    "habilidades_requeridas": ["JavaScript", "React", "CSS"],
+    "salario": 4000.00,
+    "tipo_contrato": "CLT",
+    "localizacao": {
+      "cidade": "Curitiba",
+      "estado": "PR"
+    },
+    "ativa": true
+  },
+  {
+    "titulo": "Estágio em Dados",
+    "empresa": "DataCorp",
+    "descricao": "Apoio em análise de dados e relatórios.",
+    "habilidades_requeridas": ["Python", "Pandas", "Excel"],
+    "salario": 1800.00,
+    "tipo_contrato": "Estágio",
+    "localizacao": {
+      "cidade": "Londrina",
+      "estado": "PR"
+    },
+    "ativa": true
+  },
+  {
+    "titulo": "Desenvolvedor Java",
+    "empresa": "SoftPrime",
+    "descricao": "Manutenção e evolução de sistemas legados em Java.",
+    "habilidades_requeridas": ["Java", "Spring Boot", "SQL"],
+    "salario": 4500.00,
+    "tipo_contrato": "CLT",
+    "localizacao": {
+      "cidade": "Maringá",
+      "estado": "PR"
+    },
+    "ativa": true
+  }
+]
